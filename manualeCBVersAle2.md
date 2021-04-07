@@ -98,4 +98,4 @@ A questo comando il bot risponde con una "perla di saggezza" del nostro GDE, MVP
 - RomyT (Collaborator)
 - FabrizioM (Collaborator)
 - Alessandro Aprile (Collaborator) `netalex#5373`
-- Marco Moretti (Collaborator)F
+- Marco Moretti (Collaborator)
