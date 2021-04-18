@@ -42,7 +42,7 @@ Li infatti troverai una lista con tutti i canali; cliccando sul numero corrispon
 - **come si scrive il codice (AKA "NO SCREENSHOT USATE [PASTEBIN!!!](https://pastebin.com/)")**\
 **Non** si deve usare la funzionalità di paste delle _immagini_ di discord.
  Il codice in una immagine infatti, non essendo più testo, è scomodo da leggere per chi vuole aiutare e meno utile per chi lo posta.
-  - Si può usare il markdown (backtick,  "\`" e  "\```"  ).
+  - Si può usare il markdown (backtick,  " \` " e  " \``` "  ).
   - il comando bot `&code` (identico al backtick di markdown, per chi non lo ha sulla tastiera)
   - il comando `&embed` che permette di caricare il codice in uno speciale formato _json_
   - ma ci sono soluzioni migliori, dette [pastebin](https://en.wikipedia.org/wiki/Pastebin). Ecco una serie video che ne spiega l'uso:
@@ -50,7 +50,7 @@ Li infatti troverai una lista con tutti i canali; cliccando sul numero corrispon
     https://www.youtube.com/watch?v=EtJi5mgS9SA
     https://www.youtube.com/watch?v=HTOJPFDaKwE
 
-- **regole di convivenza**\
+- **regole di convivenza**
 <!-- (da vedere con Fabio che ha esperienza di moderazione) -->
 
 - **come partecipare a una chat vocale e dove trovarle:**\
@@ -92,7 +92,7 @@ Sono rintracciabili nel canale `#help` e ne vengono aggiunti di continuo. Il com
 `&palloaotto <domanda>` ritorna una risposta a _qualunque_ domanda, perfettamente sensata, perfettamente *inutile*. Non è Bellissimo?
 
 - **il comando di tutti i comandi: `&oplà`**\
-A questo comando il bot risponde con una "perla di saggezza" del nostro GDE, MVP, Twitch Partner e GGiovaneDentro Preferito, Fabio Biondi.
+A questo comando il bot risponde con una "perla di saggezza" del nostro GDE, MVP, Twitch Partner e *GGiovaneDentro* Preferito, Fabio Biondi.
 
 - **come proporre nuovi comandi:**
   - `&proposta`
