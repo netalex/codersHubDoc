@@ -39,7 +39,7 @@ Li infatti troverai una lista con tutti i canali; cliccando sul numero corrispon
 - come si scrive il codice (AKA "NO SCREENSHOT USATE [PASTEBIN!!!](https://pastebin.com/)")
 **Non** si deve usare la funzionalità di paste delle _immagini_ di discord.
  Il codice in una immagine infatti, non essendo più testo, è scomodo da leggere per chi vuole aiutare e meno utile per chi lo posta.
-  - Si può usare il markdown.
+  - Si può usare il markdown (backtick, ` ` ` e ` ``` ` ).
   - il comando bot `&code` (identico al backtick di markdown, per chi non lo ha sulla tastiera)
   - il comando `&embed` che permette di caricare il codice in uno speciale formato _json_
   - ma ci sono soluzioni migliori, dette [pastebin](https://en.wikipedia.org/wiki/Pastebin). Ecco una serie video che ne spiega l'uso:
@@ -62,7 +62,7 @@ Se vuoi **fare crescere** la **community,** puoi condividere l'accesso al server
 Per avere un link permanente,
   - vai sul canale #rules
 ![Immagine 2021-02-21 232450.png](https://draftin.com:443/images/77964?token=8OGNe0B8L3vKWRJfO5L3ZwAOiXDFBHQcWveF7ZjAMX-rarwdp3nU53lQSFm--5a__eNEpoDcCXl0C1g50BJ1SS4)
-  - trovi il link segnato come messaggio in evidenza:![Immagine 2021-02-21 232624.png](https://draftin.com:443/images/77965?token=Sa26j4OkBFm9-Y57MLDP2fgiRdTcw8uZElTUx8hn18BLN7tAfme6m_pZNy1WzF8EWw5lQIBtjCto1hPy7pCCnHs)
+  - trovi il link segnato come messaggio in evidenza:![Immagine 2021-02-21 232624.png](https://draftin.com:443/images/77965?token=Sa26j4OkBFm9-Y57MLDP2fgiRdTcw8uZElTUx8hn18BLN7tAfme6m_pZNy1WzF8EWw5lQIBtjCto1hPy7pCCnHs) (è lo stesso indicato all'inizio di questa guida)
 
 ## di CodersBot
 - come si usa il bot:
@@ -90,6 +90,7 @@ A questo comando il bot risponde con una "perla di saggezza" del nostro GDE, MVP
 - come proporre nuovi comandi:
   - `&proposta`
     Il testo che segue questo comando sarà cancellato dal canale e pubblicato in `#suggerimenti` dove lo si potrà _votare_ come proposta per la community, selezionando l'icona "mi piace" o "non mi piace".
+    In questo modo si può fare qualunque proposta riguardante la community, non solo il bot.
   - In alternativa si può *partecipare allo sviluppo del bot* e implementare un nuovo comando come fork del repo github, chiedendo poi una pull request.
 
 ## Lista Moderatori:
