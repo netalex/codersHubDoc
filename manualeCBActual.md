@@ -42,7 +42,7 @@ Li infatti troverai una lista con tutti i canali; cliccando sul numero corrispon
 - **come si scrive il codice (AKA "NO SCREENSHOT USATE [PASTEBIN!!!](https://pastebin.com/)")**\
 **Non** si deve usare la funzionalità di paste delle _immagini_ di discord.
  Il codice in una immagine infatti, non essendo più testo, è scomodo da leggere per chi vuole aiutare e meno utile per chi lo posta.
-  - Si può usare il markdown (backtick, ` ` ` e ` ``` ` ).
+  - Si può usare il markdown (backtick,  "\`" e  "\```"  ).
   - il comando bot `&code` (identico al backtick di markdown, per chi non lo ha sulla tastiera)
   - il comando `&embed` che permette di caricare il codice in uno speciale formato _json_
   - ma ci sono soluzioni migliori, dette [pastebin](https://en.wikipedia.org/wiki/Pastebin). Ecco una serie video che ne spiega l'uso:
